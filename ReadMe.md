@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Anup 👋<br><br>I'm a 1st-year BTech CSE student learning C and exploring cybersecurity. I'm interested in low-level systems and how computers work under the hood, and I work with Linux environments.<br><br>---<br><br>### 💻 About Me<br>- 🔭 **Current Focus:** Learning C and core programming fundamentals<br>- 🌱 **Exploring:** Cybersecurity concepts and security tooling<br>- 🛠️ **Tech Stack:** C | Linux | Git & GitHub<br>- 🎯 **Goal:** Build small projects and strengthen my fundamentalshrough hands-on projects
+# Hi there, I'm Anup 👋<br><br>I'm a 1st-year BTech CSE student learning C and exploring cybersecurity. I'm interested in Offensive Security and how computers work under the hood, and I work with Linux environments.<br><br>---<br><br>### 💻 About Me<br>- 🔭 **Current Focus:** Learning C and core programming fundamentals<br>- 🌱 **Exploring:** Cybersecurity concepts and security tooling<br>- 🛠️ **Tech Stack:** C | Linux | Git & GitHub<br>- 🎯 **Goal:** Build small projects and strengthen my fundamentalshrough hands-on projects
 
 
 ## 🌐 Socials:
