@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Priyanshu Sharma 👋</h1>
+  <h1>Hi, I'm Anup Sharma 👋</h1>
   <p><strong>B.Tech CSE Undergrad | Systems, Python & Cyber Enthusiast</strong></p>
 </div>
 
