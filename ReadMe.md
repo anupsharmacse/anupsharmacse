@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 - 🎓 First-year Computer Science & Engineering student.
-- 🐧 Linux enthusiast with a keen interest in system internals & scripting.
+- 🐧 Linux enthusiast with a keen interest in Offensive Security and system internals & scripting.
 - 💡 Actively building logic and solving problems using C and Python.
 - 🤝 Open to collaborating on open-source repositories and utility tools.
 
